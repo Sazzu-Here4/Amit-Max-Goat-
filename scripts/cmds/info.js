@@ -16,22 +16,21 @@ module.exports = {
     const time = new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka' });
 
     const profile = `
-『 𝗔𝗠𝗜𝗧 𝗠𝗔𝗫 ⚡ 』
+『 𝗦𝗔𝗭𝗭𝗔𝗗 𝗠𝗔𝗫 ⚡ 』
 
-• Name: Amit Max ⚡  
-• Class: Inter 1st  
-• Group: Accounting  
+• Name: Sazzad Max ⚡  
+• Class: Diploma Engeneering  
+• Group: Civil Tecnology  
 • Gender: Male  
-• DOB: 18-05-2006  
-• Religion: Sanatan  
-• Blood: AB+  
-• Height: 5.5 ft  
-• Location: Khoksa, Kushtia  
+• DOB: 01-05-2003  
+• Religion: Islam  
+• Blood: O+  
+• Height: 5.8 ft  
+• Location: Panir Tank, Dinajpur  
 • Hobby: Flirting  
-• Status: Single  
-• FB: fb.com/share/1564YX2VyT/  
-• IG: instagram.com/amitmax44  
-• Email: maxamit279@gmail.com  
+• Status: Life Time Single ☠️  
+• FB:  https://www.facebook.com/=61578415994269
+• Email: sazzuhere4@gmail.com  
 
 ⏰ Time: ${time}`;
 
